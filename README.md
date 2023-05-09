@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DulguunMDR
 - 👀 I’m interested in Blockchain tech.
-- 🌱 I’m currently learning Sforza.App
+- 🌱 I’m currently learning DAPP development and security.
 - 💞️ I’m looking to collaborate on any inspiring projects.
 - 📫 How to reach me sforza@sforza.app
 
